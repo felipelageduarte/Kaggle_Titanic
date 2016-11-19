@@ -1,0 +1,17 @@
+DataFilePath: /Users/felipelageduarte/Dropbox/Kaggle/Titanic/train.csv
+HasHeader: yes
+Separator: ','
+Target: Survived
+ColumnsToExclude: PassengerId
+RLogFilePath: titanic.log.r
+CategoricalColumns:
+- Survived
+- Pclass
+- Sex
+- Embarked
+NumericalColumns:
+- Age
+- SibSp
+- Parch
+- Fare
+

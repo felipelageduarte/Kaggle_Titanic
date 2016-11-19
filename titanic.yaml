@@ -1,0 +1,12 @@
+DataFilePath:
+    /Users/felipelageduarte/Dropbox/Kaggle/Titanic/train.csv
+HasHeader:
+    Yes
+Separator:
+    ','
+Target:
+    Survived
+ColumnsToExclude:
+    PassengerId
+RLogFilePath:
+    titanic.log.r
